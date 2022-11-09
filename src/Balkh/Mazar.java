@@ -6,8 +6,8 @@ public class Mazar {
 	System.out.println("I love Afghanistan");
 	
 	}// TODO Auto-generated method stub
-	public void gitTest() {
-		System.out.println("this is from afghan");
+	public void gitTest2() {
+		System.out.println("this is from afghan, Balkh, Mazar i shaarif city");
 	}
 
 }
