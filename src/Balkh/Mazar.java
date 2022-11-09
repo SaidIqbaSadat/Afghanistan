@@ -24,4 +24,7 @@ public class Mazar {
 		S
 	}
 
+
+	public void gitTest211() {
+		System.out.println("this is from afghan, Balkh, Mazar i shaarif city");
 }
