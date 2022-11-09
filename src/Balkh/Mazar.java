@@ -21,10 +21,15 @@ public class Mazar {
 		System.out.println("this is from afghan, Balkh, Mazar i shaarif city");
 		System.out.println("this is from afghan, Balkh, Mazar i shaarif city");
 		
-		S
-	}
+		}
 
 
-	public void gitTest211() {
+	public void gitTest2131() {
 		System.out.println("this is from afghan, Balkh, Mazar i shaarif city");
+}
+	public void gitTest005() {
+		System.out.println("this is from afghan, Balkh, Mazar i shaarif city");}
+
+public void gitTest006() {
+	System.out.println("this is from afghan, Balkh, Mazar i shaarif city");}
 }
